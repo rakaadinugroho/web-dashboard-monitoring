@@ -1,0 +1,15 @@
+{
+  "name": "automationreport",
+  "version": "1.0.0",
+  "description": "tools to generate custom report",
+  "main": "runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "psi": "^4.1.0"
+  }
+}
