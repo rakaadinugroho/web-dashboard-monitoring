@@ -1,0 +1,46 @@
+[
+    {
+        "performance": 0.2,
+        "fcp": "4.1 s",
+        "fid": "FAST",
+        "si": "6.5 s",
+        "tti": "13.2 s",
+        "fmp": "4.1 s",
+        "type": "mobile",
+        "pageTitle": "Dicoding Academy Page",
+        "date": "4/1/2022"
+    },
+    {
+        "performance": 0.32,
+        "fcp": "2.3 s",
+        "fid": "FAST",
+        "si": "5.8 s",
+        "tti": "14.6 s",
+        "fmp": "2.3 s",
+        "type": "mobile",
+        "pageTitle": "Dicoding Homepage",
+        "date": "4/1/2022"
+    },
+    {
+        "performance": 0.3,
+        "fcp": "4.1 s",
+        "fid": "FAST",
+        "si": "6.5 s",
+        "tti": "13.2 s",
+        "fmp": "4.1 s",
+        "type": "mobile",
+        "pageTitle": "Dicoding Academy Page",
+        "date": "4/2/2022"
+    },
+    {
+        "performance": 0.4,
+        "fcp": "2.3 s",
+        "fid": "FAST",
+        "si": "5.8 s",
+        "tti": "14.6 s",
+        "fmp": "2.3 s",
+        "type": "mobile",
+        "pageTitle": "Dicoding Homepage",
+        "date": "4/2/2022"
+    }
+]
